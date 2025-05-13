@@ -11,7 +11,7 @@ export default function Home() {
       <header className="sticky top-0 z-50 w-full border-b bg-white/80 backdrop-blur-sm">
         <div className="container flex h-16 items-center justify-between">
           <div className="flex items-center gap-2">
-            <span className="text-xl font-bold tracking-tight">Divya</span>
+            <span className="text-xl font-bold tracking-tight">Anurag</span>
             <span className="text-sm text-muted-foreground">Makeup Artist</span>
           </div>
           <nav className="hidden md:flex items-center gap-6">
